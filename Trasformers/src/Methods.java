@@ -13,7 +13,7 @@ public class Methods {
         pName("MAX");
     }
     //outside the main methode
-    //creating method
+    //creating methodeee
 
     public static void printText(){
         System.out.println("hello3");
