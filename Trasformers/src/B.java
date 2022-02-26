@@ -9,6 +9,12 @@ public class B {
         a.printUntil(10);
         a.printUntil(3);
 
+        System.out.println();
+
+
+        MethodsBasicPartTwoo ggg = new MethodsBasicPartTwoo();
+       int www  =  ggg.calculatett(1998);
+        System.out.println(www);
 
 
     }
